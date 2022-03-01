@@ -1,2 +1,2 @@
-# CR-for-Devops
+# CRDevops
 Practicing DevOps 
